@@ -1,8 +1,5 @@
 joblib
 pandas
 tensorflow
-seaborn
 numpy
-matplotlib.pyplot
-sklearn
-xgboost
+
