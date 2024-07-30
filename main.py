@@ -4,8 +4,8 @@ import pandas as pd
 import tensorflow as tf
 
 # Load the model and input features
-model = joblib.load('D:/trainin/intern/Projects/first project/final_model.pk1')
-input_features = joblib.load('D:/trainin/intern/Projects/first project/input.pk1')
+model = joblib.load('final_model.pk1')
+input_features = joblib.load('input.pk1')
 
 # Define a prediction function
 def prediction(online_order, book_table, rest_type, location, approx_cost):
