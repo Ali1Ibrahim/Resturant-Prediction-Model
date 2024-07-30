@@ -2,4 +2,3 @@ joblib
 pandas
 tensorflow
 numpy
-final_model.pk1
