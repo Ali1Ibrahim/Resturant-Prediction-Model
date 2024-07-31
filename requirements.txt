@@ -1,5 +1,4 @@
-sklearn
+streamlit
 joblib
 pandas
 tensorflow
-numpy
