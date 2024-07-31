@@ -1,5 +1,7 @@
-streamlit
-sklearn
+streamlit==1.36.0
+pandas
+numpy
+scikit-learn==1.2.1
 joblib
 pandas
 tensorflow
