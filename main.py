@@ -82,7 +82,7 @@ def user_input_features():
        'Kengeri', 'Sankey Road', 'Sadashiv Nagar', 'Basaveshwara Nagar',
        'Yeshwantpur', 'West Bangalore', 'Magadi Road', 'Yelahanka',
        'Sahakara Nagar', 'Peenya'])
-    approx_cost = st.sidebar.slider('Approx Cost (for two people)',min_value= 10, max_value= 1000 , step= 1 , value= 20)
+    approx_cost = st.sidebar.slider('Approx Cost (for two people)',min_value= 10, max_value= 3500 , step= 1 , value= 20)
     
     
     data = {
