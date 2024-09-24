@@ -115,5 +115,3 @@ if st.button('Predict'):
     
     st.subheader('Prediction')
     st.write('Success' if result == 1 else 'Failure')
-
-
